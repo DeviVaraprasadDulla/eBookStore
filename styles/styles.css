@@ -2,8 +2,8 @@ body {
   font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 .header-section {
-  /* background-color: white; */
-  background-color: ghostwhite;
+  background-color: white;
+  /* background-color: ghostwhite; */
   padding: 0.6rem;
   border-top: 1px solid black;
   /* box-shadow: inset 0px 5px 8px rgba(0, 0, 0, 0.5); */
